@@ -1,2 +1,2 @@
 # SpaceDefender
-Basic space defender game
+This is a basic space invader 2D game made in unity
